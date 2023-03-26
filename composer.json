@@ -1,0 +1,17 @@
+{
+    "name": "katazina/clients",
+    "description": "Clients database",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Katažina",
+            "email": "katazina.fukalova@gmail.com"
+        }
+    ],
+    "require": {}
+}

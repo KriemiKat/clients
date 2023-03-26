@@ -1,0 +1,15 @@
+{
+  "name": "clients",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Katazina (https://github.com/KriemiKat)",
+  "license": "ISC",
+  "dependencies": {
+    "laravel-mix": "^6.0.49"
+  }
+}
